@@ -4,7 +4,8 @@
 ### Actualización de la consola Powkiddy-A12
 
 Para actualizar la consola PowkiddyA12 hay que seguir el método explicado en
-<https://github.com/Ruka-CFW/rk3128-cfw> que te instala una versión custom de un Retroarch, de esa manera podemos jugar a los arcades y consolas más conocidas como Atari, PS1, GameBoy....
+
+[RukaTeam CFW](https://github.com/Ruka-CFW/rk3128-cfw) que te instala una versión custom de un Retroarch, de esa manera podemos jugar a los arcades y consolas más conocidas como Atari, PS1, GameBoy....
 ### Método de recuperación de la consola Powkiddy A12
 
 Este método describe un modo de actualización para caso de fallo del método anterior. ¡¡OJO, UTILIZAR SÓLO EN CASO DE FALLO DEL MÉTODO DE RUKATEAM!!
