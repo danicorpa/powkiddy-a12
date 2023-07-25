@@ -4,4 +4,4 @@
 
 
 
-![PowkiddyA12](../img/71HFw+C6xkL._AC_SL1500_.jpg)
+![PowkiddyA12](img/71HFw+C6xkL._AC_SL1500_.jpg)
