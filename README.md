@@ -3,7 +3,7 @@
 ![PowkiddyA12](img/71HFw+C6xkL._AC_SL1500_.jpg)
 ### Actualización de la consola Powkiddy-A12
 
-Para actuaalizar la consola PowkiddyA12 hay que seguir el método explicado en
+Para actualizar la consola PowkiddyA12 hay que seguir el método explicado en
 <https://github.com/Ruka-CFW/rk3128-cfw> que te instala una versión custom de un Retroarch, de esa manera podemos jugar a los arcades y consolas más conocidas como Atari, PS1, GameBoy....
 ### Método de recuperación de la consola Powkiddy A12
 
